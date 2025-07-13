@@ -1,0 +1,9 @@
+# Ignore FastF1 cache and other large files
+*.ff1pkl
+*.sqlite
+*.dll
+*.pkl
+__pycache__/
+.venv/
+*.log
+.DS_Store
