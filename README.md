@@ -19,8 +19,6 @@ This project predicts Formula 1 race outcomes using machine learning based on hi
 - Streamlit
 - Plotly
 
-## 📁 Project Structure
-
 ## 🚀 How to Run
 
 1. Clone the repository:
